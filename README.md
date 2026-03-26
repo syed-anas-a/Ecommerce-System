@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Management System - TeraMart
+# 🛍️ TeraMart : E-Commerce Management System
 
 A backend system covering the core workflows of an e-commerce platform - authentication, product catalog, cart management, order processing, and payment verification.
 
